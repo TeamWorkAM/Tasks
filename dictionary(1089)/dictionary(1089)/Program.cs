@@ -10,6 +10,9 @@ namespace dictionary_1089_
     {
         static void Main(string[] args)
         {
+            Dictionary.AddWords();
+            Dictionary.CheckWords();
+            Console.ReadKey();
         }
     }
 }

@@ -1,0 +1,7 @@
+D:\Учёба 2018-2022\Практика производственная\dictionary(1089)\dictionary(1089)\bin\Debug\dictionary(1089).exe.config
+D:\Учёба 2018-2022\Практика производственная\dictionary(1089)\dictionary(1089)\bin\Debug\dictionary(1089).exe
+D:\Учёба 2018-2022\Практика производственная\dictionary(1089)\dictionary(1089)\bin\Debug\dictionary(1089).pdb
+D:\Учёба 2018-2022\Практика производственная\dictionary(1089)\dictionary(1089)\obj\Debug\dictionary(1089).csprojAssemblyReference.cache
+D:\Учёба 2018-2022\Практика производственная\dictionary(1089)\dictionary(1089)\obj\Debug\dictionary(1089).csproj.CoreCompileInputs.cache
+D:\Учёба 2018-2022\Практика производственная\dictionary(1089)\dictionary(1089)\obj\Debug\dictionary(1089).exe
+D:\Учёба 2018-2022\Практика производственная\dictionary(1089)\dictionary(1089)\obj\Debug\dictionary(1089).pdb
