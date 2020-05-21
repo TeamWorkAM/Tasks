@@ -1,0 +1,7 @@
+D:\Учёба 2018-2022\Практика производственная\alchemy(1573)\alchemy(1573)\bin\Debug\alchemy(1573).exe.config
+D:\Учёба 2018-2022\Практика производственная\alchemy(1573)\alchemy(1573)\bin\Debug\alchemy(1573).exe
+D:\Учёба 2018-2022\Практика производственная\alchemy(1573)\alchemy(1573)\bin\Debug\alchemy(1573).pdb
+D:\Учёба 2018-2022\Практика производственная\alchemy(1573)\alchemy(1573)\obj\Debug\alchemy(1573).csprojAssemblyReference.cache
+D:\Учёба 2018-2022\Практика производственная\alchemy(1573)\alchemy(1573)\obj\Debug\alchemy(1573).csproj.CoreCompileInputs.cache
+D:\Учёба 2018-2022\Практика производственная\alchemy(1573)\alchemy(1573)\obj\Debug\alchemy(1573).exe
+D:\Учёба 2018-2022\Практика производственная\alchemy(1573)\alchemy(1573)\obj\Debug\alchemy(1573).pdb
