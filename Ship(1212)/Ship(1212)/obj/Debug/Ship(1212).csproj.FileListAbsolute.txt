@@ -1,0 +1,7 @@
+D:\Учёба 2018-2022\Практика производственная\Ship(1212)\Ship(1212)\bin\Debug\Ship(1212).exe.config
+D:\Учёба 2018-2022\Практика производственная\Ship(1212)\Ship(1212)\bin\Debug\Ship(1212).exe
+D:\Учёба 2018-2022\Практика производственная\Ship(1212)\Ship(1212)\bin\Debug\Ship(1212).pdb
+D:\Учёба 2018-2022\Практика производственная\Ship(1212)\Ship(1212)\obj\Debug\Ship(1212).csprojAssemblyReference.cache
+D:\Учёба 2018-2022\Практика производственная\Ship(1212)\Ship(1212)\obj\Debug\Ship(1212).csproj.CoreCompileInputs.cache
+D:\Учёба 2018-2022\Практика производственная\Ship(1212)\Ship(1212)\obj\Debug\Ship(1212).exe
+D:\Учёба 2018-2022\Практика производственная\Ship(1212)\Ship(1212)\obj\Debug\Ship(1212).pdb
