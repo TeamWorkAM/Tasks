@@ -1,0 +1,7 @@
+D:\Others\Практика на производстве\MedianOfTheSequence(1306)\MedianOfTheSequence(1306)\bin\Debug\MedianOfTheSequence(1306).exe.config
+D:\Others\Практика на производстве\MedianOfTheSequence(1306)\MedianOfTheSequence(1306)\bin\Debug\MedianOfTheSequence(1306).exe
+D:\Others\Практика на производстве\MedianOfTheSequence(1306)\MedianOfTheSequence(1306)\bin\Debug\MedianOfTheSequence(1306).pdb
+D:\Others\Практика на производстве\MedianOfTheSequence(1306)\MedianOfTheSequence(1306)\obj\Debug\MedianOfTheSequence(1306).csprojAssemblyReference.cache
+D:\Others\Практика на производстве\MedianOfTheSequence(1306)\MedianOfTheSequence(1306)\obj\Debug\MedianOfTheSequence(1306).csproj.CoreCompileInputs.cache
+D:\Others\Практика на производстве\MedianOfTheSequence(1306)\MedianOfTheSequence(1306)\obj\Debug\MedianOfTheSequence(1306).exe
+D:\Others\Практика на производстве\MedianOfTheSequence(1306)\MedianOfTheSequence(1306)\obj\Debug\MedianOfTheSequence(1306).pdb
