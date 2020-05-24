@@ -1,0 +1,7 @@
+D:\Others\Практика на производстве\WhiteLines(1628)\WhiteLines(1628)\bin\Debug\WhiteLines(1628).exe.config
+D:\Others\Практика на производстве\WhiteLines(1628)\WhiteLines(1628)\bin\Debug\WhiteLines(1628).exe
+D:\Others\Практика на производстве\WhiteLines(1628)\WhiteLines(1628)\bin\Debug\WhiteLines(1628).pdb
+D:\Others\Практика на производстве\WhiteLines(1628)\WhiteLines(1628)\obj\Debug\WhiteLines(1628).csprojAssemblyReference.cache
+D:\Others\Практика на производстве\WhiteLines(1628)\WhiteLines(1628)\obj\Debug\WhiteLines(1628).csproj.CoreCompileInputs.cache
+D:\Others\Практика на производстве\WhiteLines(1628)\WhiteLines(1628)\obj\Debug\WhiteLines(1628).exe
+D:\Others\Практика на производстве\WhiteLines(1628)\WhiteLines(1628)\obj\Debug\WhiteLines(1628).pdb
