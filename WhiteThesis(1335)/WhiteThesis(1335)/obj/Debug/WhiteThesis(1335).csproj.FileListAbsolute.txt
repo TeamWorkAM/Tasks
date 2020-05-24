@@ -1,0 +1,7 @@
+D:\Others\Практика на производстве\WhiteThesis(1335)\WhiteThesis(1335)\bin\Debug\WhiteThesis(1335).exe.config
+D:\Others\Практика на производстве\WhiteThesis(1335)\WhiteThesis(1335)\bin\Debug\WhiteThesis(1335).exe
+D:\Others\Практика на производстве\WhiteThesis(1335)\WhiteThesis(1335)\bin\Debug\WhiteThesis(1335).pdb
+D:\Others\Практика на производстве\WhiteThesis(1335)\WhiteThesis(1335)\obj\Debug\WhiteThesis(1335).csprojAssemblyReference.cache
+D:\Others\Практика на производстве\WhiteThesis(1335)\WhiteThesis(1335)\obj\Debug\WhiteThesis(1335).csproj.CoreCompileInputs.cache
+D:\Others\Практика на производстве\WhiteThesis(1335)\WhiteThesis(1335)\obj\Debug\WhiteThesis(1335).exe
+D:\Others\Практика на производстве\WhiteThesis(1335)\WhiteThesis(1335)\obj\Debug\WhiteThesis(1335).pdb
